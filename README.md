@@ -19,7 +19,7 @@ Here are my personal Java projects. I output all my Java projects as jar files, 
 ## ATM Machine
 I created an ATM Machine with useful functions.
 
-<p align="center"><img width="400" height="300" src="https://https://github.com/RunquanYe/JavaWarehouse/blob/main/img/ATM_Machine.PNG"/></p>
+<p align="center"><img width="400" height="300" src="https://https://github.com/RunquanYe/JavaWarehouse/blob/master/img/ATM_Machine.PNG"/></p>
 
 + ### Spotlight:
     - ###### Attractive and easy-to-use GUI Panel design.
