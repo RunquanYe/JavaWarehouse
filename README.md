@@ -36,7 +36,7 @@ I created an ATM Machine with useful functions.
 ## Countdown Timer
 I created a countdown timer with some useful methods.
 
-<p align="center"><img width="500" height="150" src="https://github.com/RunquanYe/JavaWarehouse/blob/master/img/Timer_01.PNG"/></p>
+<p align="center"><img width="500" height="150" src="https://github.com/RunquanYe/JavaWarehouse/blob/main/img/Timer_01.PNG"/></p>
 
 + ### Spotlight:
     - ###### Suspend method to control all timers.
