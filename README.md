@@ -1,9 +1,3 @@
-<!--
- * @Author: Runquan Ye
- * @Date: 2025-03-01 23:01:34
- * @Description: file content
--->
-
 # Java
 ---
 Hello, 😄, to see more of my projects in other languages, please take a look at 👉 my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects).
