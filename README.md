@@ -1,8 +1,4 @@
-<!--
- * @Author: Runquan Ye
- * @Date: 2025-03-01 23:01:34
- * @Description: file content
--->
+
 # Java
 ---
 Hello, 😄, to see more of my projects in other languages, please take a look at 👉 my [Demo Projects Board](https://github.com/RunquanYe/DemoProjects).
@@ -24,7 +20,7 @@ Here are my personal Java projects. I output all my Java projects as jar files, 
 ## ATM Machine
 I created an ATM Machine with useful functions.
 
-<p align="center"><img width="400" height="300" src="https://github.com/RunquanYe/Java/blob/master/img/ATM_Machine.PNG"/></p>
+<p align="center"><img width="400" height="300" src="https://github.com/RunquanYe/JavaWarehouse/blob/master/img/ATM_Machine.PNG"/></p>
 
 + ### Spotlight:
     - ###### Attractive and easy-to-use GUI Panel design.
@@ -41,7 +37,7 @@ I created an ATM Machine with useful functions.
 ## Countdown Timer
 I created a countdown timer with some useful methods.
 
-<p align="center"><img width="500" height="150" src="https://github.com/RunquanYe/Java/blob/master/img/Timer_01.PNG"/></p>
+<p align="center"><img width="500" height="150" src="https://github.com/RunquanYe/JavaWarehouse/blob/master/img/Timer_01.PNG"/></p>
 
 + ### Spotlight:
     - ###### Suspend method to control all timers.
