@@ -1,0 +1,28 @@
+# compiled class files
+*.class
+**/*.class
+
+# log files
+*.log
+**/*.log
+
+# skip folder
+**/out
+out
+**/target
+target
+
+# ignore the .vscode directory
+.vscode
+**/.vscode
+
+.vs
+**/.vs
+
+#ignore the .dSYM directory
+*.dSYM
+**/*.dSYM
+
+#ignore the all the .DS_Store directory
+*.DS_Store
+**/*.DS_Storet
